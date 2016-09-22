@@ -13,3 +13,14 @@ h2 {
 h3 {
   color: black;
 }
+
+a {
+  display: inline-block;
+  background-color: red;
+}
+
+a:hover {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: yellow;
+}
